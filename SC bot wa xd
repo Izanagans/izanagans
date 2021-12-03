@@ -1,0 +1,4 @@
+Pkg install git
+https://github.com/Izanagans
+CD izanagans
+Python2 izanagans.py
